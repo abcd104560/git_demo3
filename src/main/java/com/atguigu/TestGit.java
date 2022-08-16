@@ -7,5 +7,6 @@ public class TestGit {
         System.out.println("shijianzhuyu");
         System.out.println("cd");
         System.out.println("ge");
+        System.out.println("pull");
     }
 }
